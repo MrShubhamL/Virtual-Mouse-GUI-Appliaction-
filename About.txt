@@ -1,0 +1,9 @@
+******************************
+Name: Mr. Shubham Lohar
+Location: India
+Contact: 7769038180
+E-Mail: shubhamlohar952@gmail.com
+********************************
+Discription:
+The virtual mouse is a concept to handle the mouse without touching phsically.
+So you can operate the mouse using some hand gestures.
